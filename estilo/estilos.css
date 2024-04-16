@@ -1,0 +1,85 @@
+/* Estilos generales */
+body {
+    background-image: url(../imagen/fondo90.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+header {
+    background-color: rgb(196, 193, 191);
+    color: rgb(0, 0, 0);
+    padding: 15px 5px;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 180px;
+}
+
+nav {
+    background-color: #4b4a4a;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 20px;    
+}
+
+.redes-sociales  {
+    background-color: rgb(196, 193, 191);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.CONÓCENOS {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+a, p {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+
+footer p {
+    background-color: #4b4a4a;
+    color: white;
+    padding: 15px 0;
+    margin: 0;
+}
+
+.contenido {
+    max-width: fit-content;
+    padding: 0 20px;
+    margin: 5px 10px;
+    background-color: rgb(195, 192, 238);
+    text-align: center;    
+}
+
+h2 {
+    text-align: left;
+}
+
+.boton {
+    background-color: #3a3a39;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.boton:hover {
+    background-color: #888a88;
+}
