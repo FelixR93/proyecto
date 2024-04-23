@@ -45,7 +45,7 @@ nav a {
     color: rgb(0, 0, 0);
 }
 
-a, p {
+a {
     text-align: justify;
     color: rgb(0, 0, 0);
 }
@@ -55,6 +55,7 @@ footer p {
     color: white;
     padding: 15px 0;
     margin: 0;
+    text-align: center;
 }
 
 .contenido {
